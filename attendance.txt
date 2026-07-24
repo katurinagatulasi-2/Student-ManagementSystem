@@ -1,0 +1,3 @@
+Attendance Details 
+Student ID: 2500030257 
+Attendance: 95% 
