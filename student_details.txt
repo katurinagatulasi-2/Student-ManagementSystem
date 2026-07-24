@@ -1,0 +1,5 @@
+student Details 
+ID: 2500030257 
+Name: Katuri Naga Tulasi 
+Branch: CSE 
+Year: 2nd Year 
