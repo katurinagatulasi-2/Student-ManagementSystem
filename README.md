@@ -1,1 +1,2 @@
-Student_Details
+Student Management System Project using Java
+
